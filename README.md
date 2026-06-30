@@ -85,7 +85,7 @@ classDiagram
 ## Estrutura do Projeto
 
 ```
-desafio-poo-bootcamp/
+desafio-poo-dio-claro/
 └── src/
     ├── Main.java
     └── br/com/dio/desafio/dominio/
